@@ -1,0 +1,37 @@
+# Web Search
+tavily-python
+
+# Core LLM & Agents
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+langgraph
+langchain-core
+
+# RAG & Embeddings
+chromadb
+sentence-transformers
+pypdf
+pdfplumber
+pytesseract
+Pillow
+unstructured
+
+# API & Web
+fastapi
+uvicorn
+httpx
+requests
+
+# UI
+streamlit
+streamlit-chat
+
+# Storage & Memory
+sqlalchemy
+
+# Utils
+python-dotenv
+pydantic
+tenacity
