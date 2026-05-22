@@ -35,3 +35,4 @@ sqlalchemy
 python-dotenv
 pydantic
 tenacity
+google-generativeai
