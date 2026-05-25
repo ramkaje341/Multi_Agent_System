@@ -36,3 +36,7 @@ python-dotenv
 pydantic
 tenacity
 google-generativeai
+
+torch
+torchvision
+torchaudio
