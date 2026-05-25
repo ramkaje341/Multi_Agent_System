@@ -1,10 +1,6 @@
 """
 run.py — Single entry point to set up and launch the Medical Clinical Assistant.
 
-Usage:
-    python run.py            # First-time setup + launch Streamlit
-    python run.py --ingest   # Re-ingest documents then launch
-    python run.py --check    # Only check config, don't launch
 """
 import os
 import sys
