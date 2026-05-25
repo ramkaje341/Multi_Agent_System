@@ -247,7 +247,7 @@ Red flags requiring immediate assessment:
     for doc in sample_docs:
         filepath = sample_dir / doc["filename"]
         if not filepath.exists():
-            filepath.write_text(doc["content"])
+            filepath.write_text(doc["content"], encoding="utf-8")
             logger.info(f"Created sample document: {doc['filename']}")
 
 
